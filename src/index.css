@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@400;600;700&display=swap");
+@import "tailwindcss";
+
+
+
+@theme {
+  --font-sans: "Barlow", sans-serif;
+  --font-size-base: 16px;
+  --font-height-base: 1.5;
+  --font-weight-normal: 400;
+}
+
+
+body{
+  background-color: #121212;
+}
